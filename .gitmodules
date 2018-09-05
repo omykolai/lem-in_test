@@ -1,0 +1,12 @@
+[submodule "libft"]
+	path = libft
+	url = https://github.com/omykolai/libft.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/omykolai/ft_printf.git
+[submodule "hashtable"]
+	path = hashtable
+	url = https://github.com/omykolai/hashtable.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/omykolai/get_next_line.git
